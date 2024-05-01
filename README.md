@@ -15,5 +15,5 @@
 
 ### Technologies:
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3-orange.svg)](https://openai.com/)
-[![Alexa](https://img.shields.io/badge/Alexa-Skill-blueviolet.svg)](https://developer.amazon.com/en-US/alexa)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI)
+![Alexa](https://img.shields.io/badge/-Alexa-Skill-000?&logo=Alexa)
