@@ -2,8 +2,8 @@
 - 🔭 I’m currently working on AI applications for digital health
 
 ### Prototyping:
-![Streamlit](https://img.shields.io/badge/Streamlit?&logo=Streamlit)
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook?&logo=Jupyter)
+![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
+[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-Notebook-000?&logo=Jupyter)
 
 ### Languages: 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
