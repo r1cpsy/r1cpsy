@@ -8,7 +8,6 @@
 ### Languages: 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
@@ -16,4 +15,4 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI)
-![Alexa ASK](https://img.shields.io/badge/-Alexa-000?&logo=ASK)
+![Alexa ASK](https://img.shields.io/badge/-Alexa-000?&logo=Alexa)
