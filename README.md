@@ -3,7 +3,7 @@
 
 ### Prototyping:
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
-[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-Notebook-000?&logo=Jupyter-Notebook)
+[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 
 ### Languages: 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
