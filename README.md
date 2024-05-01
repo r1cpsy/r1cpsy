@@ -3,15 +3,15 @@
 
 ### Prototyping:
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
-[![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
 
 ### Languages: 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 
-[![HTML](https://img.shields.io/badge/HTML-5-orange.svg)](https://www.w3.org/TR/html52/)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-[![Flask](https://img.shields.io/badge/Flask-2.x-lightgrey.svg)](https://flask.palletsprojects.com/)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
 ### Technologies:
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
