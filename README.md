@@ -1,5 +1,5 @@
 ### Hi there 👋
-Doing research and prototypes of AI for cyberspychology
+Doing research and prototypes of AI applied to cyberpsychology
 
 #### Prototyping:
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
