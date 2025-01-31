@@ -1,5 +1,5 @@
 ### Hi there 👋
-Doing research and prototypes of AI applied to cyberpsychology
+Research of AI applied to Machine Psychology
 
 #### Prototyping:
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
