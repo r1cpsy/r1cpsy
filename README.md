@@ -15,4 +15,4 @@ Research of AI applied to Machine Psychology
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000?&logo=OpenAI)
-![Alexa ASK](https://img.shields.io/badge/-Alexa-000?&logo=Amazon-Alexa)
+
