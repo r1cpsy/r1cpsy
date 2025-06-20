@@ -1,5 +1,5 @@
 ### Hi there 👋
-Research on LLM Psychology
+LLM Psychology research
 
 #### Prototyping:
 ![Streamlit](https://img.shields.io/badge/-Streamlit-000?&logo=Streamlit)
