@@ -1,5 +1,5 @@
 ### Hi there 👋
-Doing LLM Psychology research
+Doing AI Psychology research
  
 ### 
  
